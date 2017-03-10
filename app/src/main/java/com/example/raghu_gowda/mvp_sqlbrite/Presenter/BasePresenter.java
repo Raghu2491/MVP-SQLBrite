@@ -17,7 +17,7 @@ public class BasePresenter implements Presenter {
 
     @Override
     public void onCreate() {
-
+        System.out.print("");
     }
 
     @Override
